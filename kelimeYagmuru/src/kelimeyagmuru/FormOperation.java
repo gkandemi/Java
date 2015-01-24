@@ -17,7 +17,7 @@ package kelimeyagmuru;
 
 public class FormOperation {
 
-    public void FormOperation(){
+    public FormOperation(){
         
     }
     

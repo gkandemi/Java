@@ -15,7 +15,7 @@ package kelimeyagmuru;
 
 public class WordValues {
     
-    public void WordValues(){
+    public WordValues(){
         
         
     }

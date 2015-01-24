@@ -14,7 +14,7 @@ package kelimeyagmuru;
 
 public class KeyboardControl {
     
-    public void KeyboardControl(){
+    public KeyboardControl(){
         
     }
     

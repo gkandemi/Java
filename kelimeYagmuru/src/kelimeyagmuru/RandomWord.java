@@ -16,7 +16,7 @@ package kelimeyagmuru;
 
 public class RandomWord {
 
-    public void RandomWord(){
+    public RandomWord(){
         
     }
     

@@ -15,7 +15,7 @@ package kelimeyagmuru;
 
 public class WordTimer {
  
-    public void WordTimer(){
+    public WordTimer(){
         
     }
     

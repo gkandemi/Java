@@ -19,7 +19,7 @@ package kelimeyagmuru;
 
 public class SoundControl {
     
-    public void SoundControl(){
+    public SoundControl(){
         
     }
     

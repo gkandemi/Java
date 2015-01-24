@@ -17,7 +17,7 @@ package kelimeyagmuru;
 
 public class DataBase {
     
-    public void DataBase(){
+    public DataBase(){
         
     }
     
