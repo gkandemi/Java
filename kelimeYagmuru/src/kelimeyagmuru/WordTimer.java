@@ -1,5 +1,8 @@
 package kelimeyagmuru;
 
+import java.util.Timer;
+import java.util.TimerTask;
+
 /**
  *
  * @author Gökhan(Bu Kismi yapacak arkadas kendi ismini yazsin arkadaslar.)
@@ -18,5 +21,4 @@ public class WordTimer {
     public WordTimer(){
         
     }
-    
 }

@@ -1,5 +1,7 @@
 package kelimeyagmuru;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Gökhan(Bu Kismi yapacak arkadas kendi ismini yazsin arkadaslar.)
@@ -15,8 +17,9 @@ package kelimeyagmuru;
 
 public class WordValues {
     
+    private ArrayList kelimeler = new ArrayList();
+    
     public WordValues(){
-        
         
     }
 }
